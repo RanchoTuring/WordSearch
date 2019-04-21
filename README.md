@@ -1,7 +1,8 @@
 # WordSearch
 
 A convenient and cute **translation sotfware**.
-[![a](https://github.com/RanchoTuring/WordSearch/blob/master/img/UI.png)]
+
+![a](https://github.com/RanchoTuring/WordSearch/blob/master/img/UI.png)
 
 ***
 ## Introduction
