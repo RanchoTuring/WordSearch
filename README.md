@@ -1,6 +1,8 @@
 # WordSearch
 
 A convenient and cute **translation sotfware**.
+![](https://github.com/RanchoTuring/WordSearch/tree/master/img/UI.png)
+
 ***
 ## Introduction
 It's a **translation sotfware** based on the *Baidu-Translation*. 
