@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/\img\UI"/>
+    <qresource prefix="/img/UI"/>
+    <qresource prefix="/">
+        <file>img/UI.png</file>
+    </qresource>
+</RCC>
