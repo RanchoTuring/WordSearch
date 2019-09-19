@@ -6,11 +6,11 @@ string BDTApi(string TranslateSrc)
 {
 
     string myurl= "http://api.fanyi.baidu.com/api/trans/vip/translate?";
-    string appid = "20190309000275477";    //replace myAppid with your own appid
+    string appid = "******";    //replace myAppid with your own appid
     string q = TranslateSrc;//.toStdString();          //replace apple with your own text to be translate, ensure that the input text is encoded with UTF-8!
     string from = "auto";          //replace en with your own language type of input text
     string to = "zh";            //replace zh with your own language type of output text
-    string secret_key = "Z59hbYXTrSxh9VHCYecR";   //replace mySecretKey with your own mySecretKey
+    string secret_key = "******";   //replace mySecretKey with your own mySecretKey
 
     string salt;
     srand(unsigned(time(nullptr)));
